@@ -11,8 +11,8 @@ function Product() {
     outputValue: "_id",
   };
 
-  const panelTitle = "Product Panel";
-  const dataTableTitle = "Products Lists";
+  const panelTitle = "Kegiatan Vaksinasi";
+  const dataTableTitle = "List Vaksinasi";
   const entityDisplayLabels = ["productName"];
 
   const readColumns = [

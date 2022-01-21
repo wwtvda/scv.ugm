@@ -11,8 +11,8 @@ function Lead() {
     outputValue: "_id",
   };
 
-  const panelTitle = "Lead Panel";
-  const dataTableTitle = "Leads Lists";
+  const panelTitle = "Panel Tracing";
+  const dataTableTitle = "List Tracing";
   const entityDisplayLabels = ["client"];
 
   const readColumns = [
@@ -44,8 +44,8 @@ function Lead() {
     },
   ];
 
-  const ADD_NEW_ENTITY = "Add new lead";
-  const DATATABLE_TITLE = "leads List";
+  const ADD_NEW_ENTITY = "Tambah entri baru";
+  const DATATABLE_TITLE = "List Tracing";
   const ENTITY_NAME = "Tracing";
   const CREATE_ENTITY = "Create lead";
   const UPDATE_ENTITY = "Update lead";

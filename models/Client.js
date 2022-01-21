@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 mongoose.Promise = global.Promise;
 
-const patientSchema = new mongoose.Schema({
+const clientSchema = new mongoose.Schema({
   enabled: {
     type: Boolean,
     default: true,
